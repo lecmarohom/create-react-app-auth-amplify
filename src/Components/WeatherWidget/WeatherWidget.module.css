@@ -1,0 +1,34 @@
+.WeatherWidget {
+  position: fixed;
+  top: 80px;
+  right: 20px;
+  width: 220px;
+  height: 160px;
+  z-index: 999;
+}
+.WeatherWidget.card {
+  border: 0px;
+}
+.WeatherWidget .card-header {
+  color: #f0e9dc !important;
+}
+.WeatherWidget .card-header h1 {
+  text-align: center;
+}
+.WeatherWidget .card-body {
+  padding: 0px;
+}
+.WeatherWidget .row {
+  margin: 0px;
+  height: 100%;
+}
+.WeatherWidget .col {
+  padding-left: 2px;
+  padding-right: 2px;
+  text-align: center;
+  color: #6f5f5c !important;
+}
+.WeatherWidget .col p {
+  font-size: 8px;
+  margin: 0px;
+}

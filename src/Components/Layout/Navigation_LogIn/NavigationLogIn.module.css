@@ -1,0 +1,27 @@
+.NavbarLogo {
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  margin-right: 20px;
+}
+
+.Navbar {
+  background-color: #ffffff;
+  border-bottom: 3px solid #f3cb92;
+  z-index: 100;
+}
+
+.NavLink {
+  color: #6f5f5c !important;
+}
+
+.NavbarBrand {
+  font-weight: 700 !important;
+  color: #6f5f5c !important;
+}
+
+.Hello {
+  font-size: 23px;
+  border-bottom: 0px;
+  color: blue;
+}

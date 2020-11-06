@@ -1,0 +1,9 @@
+.logo{
+    width: 50%;
+    height: 50%;
+    vertical-align: middle;
+    background-size: contain;
+    background-repeat: no-repeat;
+    align-items: center;
+    max-width: 100%;
+}

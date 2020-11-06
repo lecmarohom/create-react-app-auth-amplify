@@ -1,0 +1,42 @@
+.Sidebar {
+  width: 200px;
+  height: calc(100% - 92px);
+  padding-bottom: 30px;
+  background: rgba(240, 233, 220, 0.9);
+  transition: all, 0.3s;
+  padding-top: 10px;
+  border-right: 2px solid #e38f71;
+  display: inline-block;
+  flex-grow: 0;
+  font-size: 11px;
+}
+
+.ListItem {
+  background-color: transparent;
+  padding: 0 5px;
+  color: #6f5f5c;
+}
+
+.ListItemSub {
+  padding-left: 6px;
+}
+
+.Sidebar input {
+  margin-left: 15px;
+  margin-right: 2px;
+  position: static;
+}
+
+.BtnCollapse + input {
+  margin-left: 0px;
+}
+
+.BtnCollapse {
+  background-color: #6f5f5c;
+  border-color: #6f5f5c;
+  cursor: pointer;
+  margin-top: 0.3rem;
+  margin-right: 2px;
+  padding: 0.3em 0.45em;
+  vertical-align: top;
+}

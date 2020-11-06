@@ -1,0 +1,28 @@
+.Container {
+  position: fixed;
+  top: 62px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.Mapping {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  /* flex-grow: 1000; */
+  overflow: hi;
+}
+.Footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 30px;
+  background-color: #e6ddcf;
+  padding-top: 5px;
+  color: #6f5f5c !important;
+  font-size: 12px;
+  text-align: center;
+}

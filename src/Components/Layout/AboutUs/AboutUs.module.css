@@ -1,0 +1,30 @@
+.CustomTag {
+    width:auto; 
+    text-align:center; 
+    padding:20px; 
+    }
+
+.CardImage {
+    width: auto;
+    min-height:550px;
+    max-height: 550px;
+    margin-block-start: 10px;
+    /* border: 5px dashed black; */
+    
+}
+
+
+
+.ImageBar{
+    width: 100%; 
+    height: 100%; 
+    object-fit: contain;
+}
+
+.altText {
+    text-decoration: solid;
+    font-family: cursive;
+}
+
+
+

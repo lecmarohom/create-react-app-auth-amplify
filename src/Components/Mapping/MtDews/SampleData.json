@@ -1,0 +1,97 @@
+[
+  {
+    "baseStation": "Itogon",
+    "geoJson": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [120.65940856933592, 16.188299533590655],
+                [120.76858520507811, 16.202806250216753],
+                [120.75965881347656, 16.242364596100327],
+                [120.80360412597655, 16.32343431643048],
+                [120.75553894042967, 16.408422577587398],
+                [120.69648742675783, 16.4762547877491],
+                [120.63331604003908, 16.447280821189388],
+                [120.61958312988281, 16.3656036625349],
+                [120.65940856933592, 16.33661321468652],
+                [120.65940856933592, 16.188299533590655]
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "sites": [
+      {
+        "id": "001",
+        "point": ["16.327717555778822", "120.67485809326172"],
+        "threshold": {
+          "id": "1",
+          "timeStamp": "2020-08-01T06:23:03.323Z",
+          "rainRate": "10",
+          "soilMoistB": "300",
+          "soilMoistA": "400",
+          "soilMoistC": "350",
+          "temperature": "40",
+          "humidity": "100",
+          "pressure": "200000",
+          "windSpeed": "20",
+          "batteryLevel": "100"
+        },
+        "payLoad": [
+          {
+            "id": "1",
+            "timeStamp": "2020-08-01T06:23:03.323Z",
+            "rainRate": "5",
+            "soilMoistB": "237",
+            "soilMoistA": "374",
+            "soilMoistC": "359",
+            "temperature": "35",
+            "humidity": "36",
+            "pressure": "101313",
+            "windSpeed": "12",
+            "batteryLevel": "88"
+          }
+        ]
+      },
+      {
+        "id": "002",
+        "point": ["16.313549560062796", "120.69923400878906"],
+        "threshold": {
+          "id": "1",
+          "timeStamp": "2020-08-01T06:23:03.323Z",
+          "rainRate": "5",
+          "soilMoistB": "237",
+          "soilMoistA": "374",
+          "soilMoistC": "359",
+          "temperature": "35",
+          "humidity": "36",
+          "pressure": "101313",
+          "windSpeed": "12",
+          "batteryLevel": "88"
+        },
+        "payLoad": [
+          {
+            "id": "1",
+            "timeStamp": "2020-08-01T06:23:03.323Z",
+            "rainRate": "5",
+            "soilMoistB": "237",
+            "soilMoistA": "374",
+            "soilMoistC": "359",
+            "temperature": "35",
+            "humidity": "36",
+            "pressure": "101313",
+            "windSpeed": "12",
+            "batteryLevel": "88"
+          }
+        ]
+      }
+    ]
+  }
+]
